@@ -1,7 +1,7 @@
 # ProceduralContent
 Project I made for my degree in Computer science.
 
-##Controls
+## Controls
 W/A/S/D to move the camera.
 Shitft/Control to make Pedestal movement (move the camera in Y axis).
 E/Q to pan the camera (Rotate clockwise - counter clockwise).
